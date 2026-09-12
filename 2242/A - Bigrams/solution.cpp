@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int t;
+    cin >> t;
+ 
+    while (t--) {
+        int k;
+        cin >> k;
+ 
+        int twice = 0;
+        bool ok = false;
+ 
+        for (int i = 0; i < k; i++) {
+            long long x;
+            cin >> x;
+ 
+            if (x >= 3)
+                ok = true;
+            else if (x >= 2)
+                twice++;
+        }
+ 
+        if (ok || twice >= 2)
+            cout << "YES
+";
+        else
+            cout << "NO
+";
+    }
+ 
+    return 0;
+}
