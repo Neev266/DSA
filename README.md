@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 17 |
+| 82 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (14)
-- [combinatorics](#combinatorics) (1)
+- [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (18)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (3)
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (38)
 - [implementation](#implementation) (20)
-- [math](#math) (36)
+- [math](#math) (37)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (16)
 - [strings](#strings) (9)
@@ -62,6 +62,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 
 ### constructive algorithms
@@ -206,6 +207,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
