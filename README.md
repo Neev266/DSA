@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 17 |
+| 85 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (38)
 - [implementation](#implementation) (20)
-- [math](#math) (38)
+- [math](#math) (39)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (16)
 - [strings](#strings) (9)
@@ -210,6 +210,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
