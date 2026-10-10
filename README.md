@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 17 |
+| 86 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (2)
@@ -31,6 +32,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.cpp) |
 
 ### bitmasks
 
