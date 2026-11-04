@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 18 |
+| 90 | 18 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
@@ -26,7 +26,7 @@
 - [greedy](#greedy) (38)
 - [implementation](#implementation) (20)
 - [math](#math) (40)
-- [number theory](#number-theory) (10)
+- [number theory](#number-theory) (11)
 - [sortings](#sortings) (16)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (2)
@@ -66,6 +66,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### combinatorics
 
@@ -274,6 +275,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### sortings
 
