@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 18 |
+| 91 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.cpp) |
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
+| 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 
 ### bitmasks
 
