@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 18 |
+| 94 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
@@ -42,6 +42,7 @@
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
+| 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Neev266/DSA/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 
 ### bitmasks
 
